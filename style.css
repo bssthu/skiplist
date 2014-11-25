@@ -50,6 +50,11 @@ h1 {
     line-height: 2;
 }
 
+.license {
+    text-align: center;
+    line-height: 2;
+}
+
 .smaller {
     font-size: smaller;
 }
@@ -57,6 +62,7 @@ h1 {
 .smallerimage {
     font-size: smaller;
     width: 90%;
+    text-align: center;
     box-shadow: #666 0px 0px 10px;background: #EEFF99;behavior: url(/PIE.htc);
 }
 
