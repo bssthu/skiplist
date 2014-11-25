@@ -1,0 +1,71 @@
+body {
+    font-family: Arial;
+    font-size: 16px;
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.page {
+    margin: 0 auto;
+    width: 640px;
+    padding: 2em;
+    background-color: white;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color=#909090,direction=120,strength=4); /*ie*/
+    -moz-box-shadow: 2px 2px 10px #909090; /*firefox*/
+    -webkit-box-shadow: 2px 2px 10px #909090; /*safari»òchrome*/
+    box-shadow: 2px 2px 10px #909090; /*opera»òie9*/
+}
+
+.main {
+    margin: 0 auto;
+    width: 600px;
+    padding: 0.5ex;
+}
+
+#time {
+    text-align: center;
+}
+
+.type {
+    border-top: double lightgray;
+    padding: 4px;
+    margin-top: 1em;
+}
+
+.typeheader {
+    font-weight: bold;
+    margin-bottom: 1ex;
+}
+
+.context {
+    margin-left: 1em;
+    margin-top: 0.5ex;
+}
+
+.input {
+    text-align: center;
+    line-height: 2;
+}
+
+.smaller {
+    font-size: smaller;
+}
+
+.smallerimage {
+    font-size: smaller;
+    width: 90%;
+    box-shadow: #666 0px 0px 10px;background: #EEFF99;behavior: url(/PIE.htc);
+}
+
+.group {
+    margin-top: 1ex;
+    margin-bottom: 1ex;
+}
+
+.headerfloatleft {
+    float: left;
+    margin-right: 1em;
+}
