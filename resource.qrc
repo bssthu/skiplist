@@ -1,0 +1,14 @@
+<RCC>
+    <qresource>
+    <file>img/file.png</file>
+    <file>img/folder.png</file>
+    <file>img/save.png</file>
+    <file>img/add-tab.png</file>
+    <file>img/close-tab.png</file>
+    <file>img/search.png</file>
+    <file>img/toggle.png</file>
+    <file>img/info.png</file>
+    <file>img/exit.png</file>
+    <file>img/settings.png</file>
+    </qresource>
+</RCC>
